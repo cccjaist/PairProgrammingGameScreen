@@ -15,7 +15,9 @@
     "next": "14.1.4",
     "react": "^18",
     "react-dom": "^18",
-    "socket.io-client": "^4.7.5"
+    "socket.io-client": "^4.7.5",
+    "url-loader": "^4.1.1",
+    "use-sound": "^4.0.3"
   },
   "devDependencies": {
     "@types/node": "^20",
